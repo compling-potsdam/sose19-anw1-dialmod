@@ -14,7 +14,7 @@ nav_order: 2
 02 | 2019-04-17 | Dialog als technische Aufgabe: Dialogsysteme. (Interaktiv; Vorlesung) [Material](https://github.com/compling-potsdam/sose19-anw1-dialmod/blob/master/material/02)|
 03 | 2019-04-24 | Dialogsysteme. NLU. (Vorlesung; praktisches Arbeiten) |
 04 | 2019-05-01 | *Feiertag, keine Sitzung* |
-05 | 2019-05-08 | NLU mit [RASA NLU](https://rasa.com/docs/nlu/). (Vorlesung; praktisches Arbeiten). Achtung: Im Kolloquium heute (16-18h) spricht Alan Nichols von RASA. Teil der Veranstaltung! |
+05 | 2019-05-08 | NLU mit [RASA NLU](https://rasa.com/docs/nlu/). (Vorlesung; praktisches Arbeiten). Achtung: Im Kolloquium heute (16-18h) spricht Alan Nichol von RASA. Teil der Veranstaltung! |
 06 | 2019-05-15 | Einführung [Alexa Skill Kit](https://developer.amazon.com/de/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html). (Vorlesung; praktisches Arbeiten) |
 07 | 2019-05-22 | [Alexa Dialogue Interface](https://developer.amazon.com/de/docs/custom-skills/dialog-interface-reference.html), [Flask-Ask](https://flask-ask.readthedocs.io/en/latest/) (Vorlesung; praktisches Arbeiten) |
 08 | 2019-05-29 | *vorgezogen auf 8.5., 16-18h* |
