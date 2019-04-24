@@ -12,7 +12,7 @@ nav_order: 2
 |:------:|:------:|-----------|------|
 01 | 2019-04-10 | Organisatorisches. Dialog als sprachliches Phänomen. (Interaktiv; Vorlesung) [Material](https://github.com/compling-potsdam/sose19-anw1-dialmod/blob/master/material/01)|
 02 | 2019-04-17 | Dialog als technische Aufgabe: Dialogsysteme. (Interaktiv; Vorlesung) [Material](https://github.com/compling-potsdam/sose19-anw1-dialmod/blob/master/material/02)|
-03 | 2019-04-24 | Dialogsysteme. NLU. (Vorlesung; praktisches Arbeiten) |
+03 | 2019-04-24 | Dialogsysteme. NLU. (Vorlesung; praktisches Arbeiten) [Material](https://github.com/compling-potsdam/sose19-anw1-dialmod/blob/master/material/03), [DSTC-Daten](https://github.com/compling-potsdam/sose19-anw1-dialmod/blob/master/material/DSTC) |
 04 | 2019-05-01 | *Feiertag, keine Sitzung* |
 05 | 2019-05-08 | NLU mit [RASA NLU](https://rasa.com/docs/nlu/). (Vorlesung; praktisches Arbeiten). Achtung: Im Kolloquium heute (16-18h) spricht Alan Nichol von RASA. Teil der Veranstaltung! |
 06 | 2019-05-15 | Einführung [Alexa Skill Kit](https://developer.amazon.com/de/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html). (Vorlesung; praktisches Arbeiten) |
