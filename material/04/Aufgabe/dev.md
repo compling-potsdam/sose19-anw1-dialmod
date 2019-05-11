@@ -1,0 +1,1379 @@
+# intent:affirm
+- yeah i need um um m
+- yes could you recommend me a place that serves british food in a moderate price range
+- yes can i have restaurants serving
+- can
+- yes can i have
+- okay
+- expe
+- yes id like to find a cheap restaurant in the north part of town
+- where
+- yes expensive
+- yes danish food
+- hello
+- yes iam looking for a cheap restaurant in the south part of town
+- yes the address
+- yes italian food
+- yes uh turkish food in my area
+- yes in the south of town
+- yes an expensive restaurant serving african food
+- doesnt matter
+- yeah
+- *DOUBLE CHECK, TWO INTENTS* yes can i have can i get swedish [food](slot) in any area
+- yes a moderately priced restaurant
+- yes i am in the east part of town right now and i am looking for any place that serves indonesian food
+- sil
+- what part of town
+- in what part of town
+- is it in the center
+- yes korean food
+- yeah a cheap restaurant serving international food
+- yes cheap restaurant
+- unintelligible
+- it doesnt matter
+- yes
+- the phone numeber
+- yes can i have an expensive restaurant
+- no
+- noise
+# intent:confirm
+- do they serve [turkish](food) food
+- do they serve [chinese](food) food
+- does it serve [international](food) food
+- is it in the [centre](area) of town
+- is it [asian oriental](food)
+- do they have [turkish](food) food
+- does it serve m [african](food) food
+- i need
+- does it serve k[italian](food) food
+- does it serve [spanish](food) food
+- does it serve [canapes](food) food
+- system
+- does it serve [polynesian](food) food
+- is it [moderate](pricerange) priced
+- start again
+- is it [expensive](pricerange)
+- does it serve [cuban](food) food
+- does it serve [vietnamese](food) food
+- does it serve [canapes](food)
+- is it [portuguese](food) food
+- is it [moderate](pricerange)
+- does it serve [kosher](food) food
+- is it serving [french](food) food
+- is it in the [south](area) part of town
+- do they serve [unusual](food) food
+- i need a restaurant in the
+- is it in the [cheap](pricerange) price range
+- er do they serve [eritrean](food) food
+# intent:request
+- static
+- can i get turkish [food](slot)
+- type of [food](slot) does it serve
+- may i have the [address](slot) please
+- what is the [address](slot) phone number and price range
+- polynesia [food](slot)
+- can i get an [address](slot) and phone number
+- katalian [food](slot)
+- may i have the [address](slot) and post code
+- great could you tell me the [address](slot) and phone number to that place
+- barbecue [food](slot)
+- can i have the [address](slot) phone number and the type of food
+- sea [food](slot)
+- alright whats the [address](slot)
+- well whats the [phone number](slot)
+- may i have the [phone number](slot) please
+- pan asian [food](slot)
+- what is the [signature](slot) dish
+- i want to find the [address](slot)
+- i need asian [food](slot)
+- what do they serve
+- serving barbecue [food](slot)
+- can i have the venusian [food](slot)
+- could i get their [address](slot) and phone number
+- perfect
+- what is the [phone number](slot)
+- whats their [price range](slot)
+- what [area](slot)
+- catalen [food](slot)
+- their [phone number](slot)
+- can i please have their [phone number](slot)
+- can i have the [address](slot) and post code
+- unitelligible [food](slot)
+- whats the [post code](slot)
+- can i get the [phone number](slot)
+- repeat
+- whats the [area](slot)
+- *DOUBLE CHECK, TWO INTENTS* i want to find a restaurant in [any](this) [area](slot)
+- can i have the european [food](slot)
+- can i get the [price range](slot)
+- what is its [address](slot) phone number and area
+- give me the [phone number](slot)
+- can i have the [price range](slot) of the venue
+- can i have the [phone number](slot) of the venue
+- again
+- great whats its [address](slot)
+- what is the [area](slot)
+- what is the phone
+- and [post code](slot)
+- whats the [phone number](slot) for that restaurant
+- i want to know the [address](slot)
+- type
+- could i have the [address](slot)
+- pan asian
+- can i have the [address](slot) of the phone number of the venue
+- can i have the [phone number](slot) and post code of the venue
+- what is the [address](slot) and price range
+- may i get the [address](slot) and phone please
+- and for good luck what is the [post code](slot)
+- may i have the [address](slot)
+- i want the [address](slot) and ph
+- and phone nubmer
+- and what kind of [food](slot) do they serve
+- and whats the [price range](slot)
+- what [food](slot) is available in this area
+- and whats the [address](slot)
+- again please
+- and [phone number](slot)
+- i am looking for sweedish [food](slot)
+- can i have asian [food](slot)
+- the phone
+- can i get their [address](slot)
+- im looking for a unintelligible [food](slot)
+- [address](slot) price range
+- what kind of [food](slot) does it
+- and the [address](slot)
+- what is the [phone number](slot) and post code
+- im looking for unintelligible [food](slot)
+- may i have the [postcode](slot)
+- could i have brazilian [food](slot)
+- okay thank
+- can i have the [address](slot) and the price range
+- [phone number](slot) phone number
+- could i have the [phone number](slot)
+- i know mia
+- what is the [area](slot) of the venue
+- could i have the [address](slot) please
+- what type of [food](slot) they serve
+- [area](slot)
+- post [number](slot)
+- okay whats its [address](slot)
+- i want the center of town
+- can i have the [address](slot)
+- can i have the [phone number](slot) please
+- fen ditton
+- can i have the [phone number](slot) and address
+- okay
+- halo [food](slot)
+- what kind of [food](slot) do they serve
+- alright what is the [address](slot)
+- center [area](slot)
+- chikkis
+- and what kind of [food](slot) do they have
+- type of [food](slot) they serve
+- can i have the [phone number](slot)
+- what is the [address](slot) and type of food they serve
+- system
+- restaurant and it should serve steak house [food](slot)
+- type of [food](slot) do they serve
+- [phone number](slot) and price range
+- and what type of [food](slot) do they serve
+- no i want belgium [food](slot)
+- do you have the [phone number](slot) of the address
+- what [food](slot) does it serve
+- and the [price range](slot)
+- ese [food](slot)
+- what is the [phone number](slot) and address
+- code
+- can i get swedish [food](slot)
+- noise [address](slot)
+- breathing
+- alright can i get chinese [food](slot)
+- can i get the [phone number](slot) and address
+- could i have the [address](slot) and phone number
+- viet
+- [address](slot) phone number
+- what unintelligible the [price range](slot)
+- [phone number](slot) please
+- what about other [area](slot)s
+- um whats the [price range](slot)
+- belgium [food](slot)
+- id like the [address](slot) and phone number please
+- their [address](slot)
+- what is the [address](slot) and post code
+- [food](slot)
+- and the [phone number](slot)
+- uh could i have the [phone number](slot)
+- whats the [signature](slot) dish
+- [phone number](slot) and post code
+- center
+- and what [price range](slot) is that or nevermind
+- what type of [food](slot) is
+- talian [food](slot)
+- and whats the [post code](slot)
+- can i get the [post code](slot)
+- what kind of [food](slot) is that
+- what is the type of [food](slot)
+- what type of [food](slot) is this
+- noise
+- uh doesnt matter
+- can i get the [address](slot) and phone number please
+- what about the [area](slot)
+- and what type of [food](slot) is it
+- what [food](slot) is available
+- alright whats the [phone number](slot)
+- can i have spanish [food](slot) in
+- whats the [address](slot)
+- can i have the [phone number](slot) and the area
+- the [post code](slot)
+- and [phone number](slot) please
+- okay what is their [address](slot)
+- can i have the [address](slot) please
+- tell me [number](slot)
+- what is their [phone number](slot)
+- can i have greek [food](slot)
+- [phone number](slot) tv_noise
+- what is the [price range](slot)
+- what is the [post code](slot)
+- can i have the [post code](slot)
+- location
+- uh whats the [address](slot)
+- may i get the [address](slot)
+- and whats its [phone number](slot)
+- okay can i have the [address](slot) and phone number
+- im looking for a sea [food](slot) restaurant
+- can i get a [post code](slot)
+- may i get the [phone number](slot)
+- and asian [food](slot)
+- [address](slot) and price range
+- can i get their [phone number](slot) please
+- alright give me the [address](slot)
+- what is la margheritas [address](slot)
+- could i have the [address](slot) phone number and post code
+- can i have the [phone number](slot) and the price range
+- and their [phone number](slot)
+- whats their [phone number](slot)
+- alright can i have the [address](slot)
+- what is little seouls [phone number](slot)
+- could i have their [address](slot) please
+- what is the [price range](slot) of this venue
+- looking for a sea [food](slot) restaurant
+- alright whats its [phone number](slot)
+- can i have the [address](slot) and phone number
+- [postcode](slot)
+- wrong no
+- so i dont care whats the [address](slot)
+- re
+- what is [price range](slot)
+- hindi [food](slot) is okay
+- i need to know the [phone number](slot) and price of food
+- could i get the [phone number](slot) and post code
+- whats the [address](slot) to that please
+- [address](slot)
+- may i have the [address](slot) of the venue
+- what is their [address](slot)
+- doesnt matter
+- is it what [price range](slot)
+- the [address](slot)
+- thank
+- where is the restaurant
+- [address](slot) phone number post code
+- what type of [food](slot) is served
+- what kind of [food](slot) is it
+- could i have their [phone number](slot) and post code
+- adress
+- im looking for venison [food](slot) cross talk
+- whats the [addr](slot)e
+- can i have the [address](slot) of the venue
+- can i have the [phone number](slot) and price range
+- can i have the [area](slot) of the restaurant
+- type of [food](slot) they served
+- tell me the [post code](slot)
+- no im looking for pan asian [food](slot)
+- sil
+- whats the [postcode](slot)
+- could i get their [phone number](slot)
+- the [addr](slot)e
+- and the [postal code](slot)
+- whats the [phone number](slot)
+- does it serve sea [food](slot)
+- what type of [food](slot) is it
+- and what is the [post code](slot)
+- what type [food](slot)
+- may i have the [phone number](slot)
+- unintelligible
+- and whats the [phone number](slot)
+- can i get american [food](slot)
+- okay may i have the [address](slot) and phone number
+- unintelligible [food](slot)
+- im looking
+- where is the [address](slot)
+- what type of [food](slot) does it
+- can i get their [address](slot) and phone number
+- [phone number](slot)
+- whats the tele[phone number](slot)
+- and the [post code](slot)
+- im looking for cross over [food](slot)
+- cough
+- can you give me the [address](slot)
+- can i change the [price range](slot)
+- what type of [food](slot) is there
+- jamcian [food](slot)
+- can you give me the [address](slot) and phone number
+- [post code](slot)
+- who is it by
+- perfect may i have the [address](slot)
+- what is
+- what is the are
+- can i get the [area](slot)
+- noise can i have the [phone number](slot)
+- okay may i get the [address](slot)
+- can i get the [address](slot) and phone number
+- can i have the [address](slot) and the phone number
+- inaudible
+- whats the [address](slot) and phone number
+- can i have it in any [price range](slot)
+- what type of [food](slot) do they serve
+- can i have their [address](slot) and phone number please
+- can i have the type of [food](slot)
+- [postal code](slot)
+- *DOUBLE CHECK, TWO INTENTS* i want to find a [moderate](pricerange)ly priced restaurant and it should serve asian [food](slot)
+- type of [food](slot)
+- do they serve unintelligible [food](slot)
+- i need the [address](slot) phone number and price range
+- what is the whats the [phone number](slot)
+- what kind of [food](slot) does it serve
+- may i have the [phone number](slot) and postcode of this ven
+- thats fine can i get their [phone number](slot) please
+- um can i get the [address](slot)
+- what [area](slot) of town is it in
+- can i get a steak house restaurant in any [area](slot)
+- may i have the [phone number](slot) and post code
+- a restaurant in the center of town serving carraibean [food](slot)
+- what is the [address](slot) phone number and type of food
+- [number](slot)
+- i am looking for catalin [food](slot)
+- whats the [price range](slot)
+- and what type of [food](slot)
+- [food](slot) type
+- whats the type of [food](slot)
+- can i get the [address](slot)
+- okay can i have european [food](slot)
+- may i have the [address](slot) and phone number
+- [price range](slot)
+- can i get the [address](slot) tv_noise
+- *DOUBLE CHECK, TWO INTENTS* i want to find a restaurant in the center and it should serve [corsica](food) [food](slot)
+- can i have european [food](slot)
+- can i get the [number](slot)
+- bad
+- could i have their [address](slot) and phone number
+- tv_noise
+- i need the [phone number](slot) and post code
+- what is the [addr](slot)e
+- can i have the [address](slot) phone number and price range
+- what [area](slot) of town
+- tele[phone number](slot)
+- the [price range](slot)
+- what is the [phone number](slot) a
+- ok talian [food](slot)
+- alright whats their [address](slot)
+- the [phone number](slot)
+- and whats their [phone number](slot)
+- what is the [address](slot)
+- [address](slot) and phone number
+- what is their [post code](slot)
+- what is the
+- what type of [food](slot)
+- no
+- [address](slot) and post code
+- part of town that serves asian [food](slot)
+- i need an [address](slot)
+- no ah
+- what [area](slot) of town is it
+- what is the [address](slot) and phone number
+- [phone number](slot) and food
+- what [area](slot) is it in
+- what type of [food](slot) do they have
+- and whats their [address](slot)
+- what type of [food](slot) does it serve
+- may i have the [address](slot) and the phone number
+- that [food](slot) tv_noise
+- can i have the [price range](slot)
+- and the [food](slot) type
+- i want a restaurant in the unintelligible that serves belgium [food](slot)
+- uh can i have the [address](slot)
+- i need asian how bout asian [food](slot)
+- may i have the [phone number](slot) and post code please
+- [phone number](slot) and address
+# intent:inform
+- im looking for [turkish](food) food in the center
+- system
+- that serves [korean](food) food
+- vietnam
+- i am looking for [persian](food) food please
+- what about a [chinese](food) restaurant in the [north](area) of town
+- i am looking for a [cheap](pricerange) restaurant in the [east](area) part of town
+- im looking for a [moderate](pricerange)ly priced restaurant in the [west](area) part of town
+- serving [modern european](food) type of food
+- [moderate](pricerange)ly priced restaurant in the [south](area) part of town
+- i want to find a [cheap](pricerange) restaurant and it should be in the [east](area) part of town
+- im looking for a [cheap](pricerange) restaurant in the [south](area) part of the town
+- find me [vietnamese](food) food
+- in the [south](area) part of the town
+- in the [north](area) part of town that serves
+- no [italian](food) food
+- asian
+- [moroccan](food) food
+- [moderate](pricerange) price
+- im looking for [moderate](pricerange)ly priced restaurant in the [north](area) part
+- what about [portuguese](food)
+- i want a [moderate](pricerange)ly priced
+- im looking for a restaurant in the [east](area) part of town serving pan asian food
+- in the [west](area) of town
+- [welsh](food) food
+- what does [rice house](name)
+- do uh
+- no [north](area)
+- im looking for a restaurant in the [north](area) part of town that serves [french](food) food
+- im looking for an [expensive](pricerange) restaurant and it should be served [international](food) food
+- [dont care](this)
+- [moderate](pricerange)ly
+- [italian](food) food
+- [any](this) any part of town
+- iam looking for a restaurant that serves [portuguese](food) food
+- [[nort](area)h american](food) restaurant [expensive](pricerange)
+- im looking for a [moderate](pricerange)ly priced restaurant in the [east](area) part of town
+- im looking for a restaurant in the [south](area) part of town serving [austrian](food) food
+- the food of the [venue](name)
+- what about [mediterranean](food) food
+- [any](this)thing
+- [modern european](food) food
+- food in the [south](area) part of town
+- im looking for a restaurant that serves [african](food) food
+- [mexican](food)
+- the [south](area) part of town
+- [cheap](pricerange) food in the [east](area) part of town
+- [spanish](food)
+- im looking for a restaurant in the [west](area) part of town
+- im looking for [moderate](pricerange) priced restaurant in the [west](area)
+- im looking for a restaurant in the [north](area) part of town serving [malaysian](food) food
+- is there a different [cheap](pricerange) restaurant in the [west](area) part of town
+- what price range is this [venue](name)
+- is there [any](this) serving [vietnamese](food)
+- in the [east](area) part of town that serves [spanish](food) food
+- [expensive](pricerange) restaurants
+- [creative](food) food
+- in the [north](area) part of town
+- [european](food)
+- [international](food) food
+- how bout [thai](food) food
+- is there a [venue](name) in the [west](area) part of town
+- uh [north](area)
+- [thai](food) restaurant
+- im looking for a restaurant that serves [romanian](food) food
+- [expensive](pricerange)
+- doesnt matter [thai](food) food
+- what else is there
+- [cuban](food)
+- [any](this) where
+- [north](area) town
+- [south](area) part of town [italian](food) food
+- id like to find a [moderate](pricerange)ly priced restaurant in the [east](area) part of town
+- no im looking for [gastropub](food) food
+- [moderate](pricerange)
+- [cheap](pricerange) restaurant [south](area) part of town
+- it doesnt matter
+- [brazilian](food) food
+- what type of [venue](name)
+- im looking for a [moderate](pricerange) priced restaurant in the [north](area) part of town
+- im looking for a [eritrean](food) restaurant in the center of town
+- i would like a [cheap](pricerange) restaurant it should serve ger
+- [scandinavian](food) food
+- yea
+- id like to find an [expensive](pricerange) restaurant
+- i want a restaurant in the [east](area) part of town that serves [singaporean](food) food
+- restaurant that serves can [canapes](food) food
+- a [moderate](pricerange)ly priced restaurant that serves
+- [expensive](pricerange) restaurant [south](area) part of town
+- [any](this) [expensive](pricerange)
+- [british](food) [expensive](pricerange)
+- [moderate](pricerange)ly priced restaurant in the [west](area)
+- serves [halal](food) food
+- unintelligible restaurant in the [south](area) part of town
+- what about [indian](food) food
+- can i have a [moderate](pricerange)ly priced restaurant on this side of town
+- do you have an [expensive](pricerange) restaurant
+- i want [spanish](food) food
+- i am looking for a [moderate](pricerange)ly priced restaurant serving [cantonese](food) food
+- im looking for [italian](food) food
+- noise [west](area)
+- system im looking for [expensive](pricerange) restaurant
+- [unusual](food)
+- system [irish](food) food
+- im looking for a restaurant that serves [unusual](food) food
+- the [south](area) part of town id like a restaurant that serves [traditional](food) food
+- what about [chinese](food) food
+- what food is in the [west](area) part of town
+- [halal](food)
+- i need to find a restaurant in the [north](area) part of town that serves [jamaican](food) food
+- [portuguese](food)
+- a restaurant that serves [scandinavian](food) food
+- that can serve [kosher](food) food
+- [gastropub](food) [moderate](pricerange)
+- [polynesian](food) food
+- can you find a [moderate](pricerange)ly priced restaurant
+- im looking for a restaurant in the [west](area) part
+- i am looking for [asian oriental](food) type food
+- i need a restaurant in the center of town that serves [spanish](food) food
+- i need a [moderate](pricerange)ly priced restaurant
+- im looking for [spanish](food) food
+- [halal](food) food
+- i want [italian](food) food
+- im looking for an [expensive](pricerange) restaurant serving k[italian](food) food
+- im looking for a
+- [italian](food) food in the [south](area) part of town
+- is there [any](this)thing ele
+- im looking for an [expensive](pricerange) restaurant serving [french](food) food
+- im looking for a [cheap](pricerange) restaurant in the [west](area) part of town
+- i am looking for an [expensive](pricerange) restaurant that serves [australian](food) food
+- im looking for a [spanish](food) restaurant
+- theres no such [venue](name) unintelligible [indian](food) type of food
+- a [cheap](pricerange) restaurant
+- i am looking for a restaurant in the [north](area) part of town serving [indian](food) food
+- looking for a [cheap](pricerange) restaurant in the [south](area) part of town
+- looking for an [expensive](pricerange) restaurant that serves
+- [turkish](food) food
+- where is the location
+- what part of town
+- [expensive](pricerange) [french](food) food
+- system [european](food) food
+- [north](area)
+- what is available
+- restaurant in the [east](area) part of town
+- [expensive](pricerange) noise
+- im looking for a [moderate](pricerange)ly priced labonese restaruant
+- i [dont care](this) about the price
+- [expensive](pricerange) restaurant [thai](food) food
+- a [moderate](pricerange)ly priced restaurant in the
+- [eritrean](food)
+- [indonesian](food)
+- [corsica](food)
+- i want a restaurant in the center that serves [french](food) food
+- restaurant [north](area) part of town fast food
+- im looking for a restaurant that serves [afghan](food) food
+- does not matter
+- a restaurant [cheap](pricerange) [north](area) part of town
+- i [dont care](this) noise
+- [french](food)
+- no [dont care](this)
+- im looking for an [expensive](pricerange) restaurant serving [vegetarian](food) food
+- [west](area)
+- [cheap](pricerange) restaurants
+- im looking for a restaurant in the [south](area) part of town serving [indian](food) type of food
+- i need a [cheap](pricerange) restaurant that serves [international](food) food
+- [any](this)thing house
+- what about [spanish](food) food
+- [french](food) food
+- im looking for a restaurant in the [west](area) part of town and it should be [cheap](pricerange)
+- belgium
+- [west](area) part of town
+- are there [any](this) serving [european](food) food
+- i [dont care](this) about the price range
+- ok is there [any](this) restaurant that serves [chinese](food) food in the [east](area) part of town
+- im looking for a restaurant in [any](this) area serving unintelligible
+- i want a [cheap](pricerange) restaurant in the [west](area) part of town
+- im looking for a restaurant serving [lebanese](food) food
+- [eritrean](food) food
+- i need a restaurant that
+- i want to find a restaurant in the [south](area) part of town and it shows
+- what about [indian](food)
+- an [expensive](pricerange) restaurant in the [east](area) part of town
+- [african](food) food
+- i need cant
+- [british](food) food
+- in the [west](area) part of town
+- [swedish](food) food
+- [any](this) part of town please
+- restaurant in the [east](area) part of town that serves [indonesian](food) food
+- doesnt it does not matter
+- not [chinese](food) food thai food
+- im looking for a restaurant in the [east](area) part of town
+- [any](this) type
+- im looking for a [moderate](pricerange)ly priced restaurant and it should be in the [east](area) part of town
+- im looking for a restaurant in the center serving [greek](food) food
+- um
+- taiwanese
+- im looking for a restaurant in the [north](area) part of town serving [italian](food) type of food
+- i need something in the [east](area) part of town that serves
+- [australasian](food)
+- [cheap](pricerange) restaurant in the [east](area) part of town
+- im looking for a [cheap](pricerange) restaurant serving [international](food) food
+- im looking for [moderate](pricerange)ly priced restaurant serving [austrian](food) food
+- serving [portuguese](food) food
+- im looking for a restaurant in the center serving [african](food) food
+- what about [british](food)
+- [[nort](area)h american](food) food
+- im looking for [vietnamese](food) food in the [north](area) part of town
+- restaurant in the [west](area) part of town serving [moroccan](food) food
+- [indian](food) food noise
+- [belgian](food) food
+- restaurant [south](area) part of town [english](food) food
+- im looking for [cuban](food) food
+- in a [moderate](pricerange) price range
+- restaurant [indian](food) restaurant
+- im looking for a restaurant in [any](this) area
+- [korean](food) food [expensive](pricerange)
+- no not [indian](food) scandinavian food
+- you know [thai](food) thai food
+- id like a [moderate](pricerange)ly price
+- looking for a [cheap](pricerange) restaurant serving [portuguese](food) food
+- uh it doesnt matter
+- [tuscan](food) food [south](area) part of town
+- breath i want to find an [expensive](pricerange) restaurant and it sh
+- yea im looking for some [spanish](food) food
+- restaurant in the [west](area) part of town that serves [cuban](food) food
+- i do not care
+- im looking for a restaurant in the [north](area) part of town serving [lebanese](food) food
+- [irish](food)
+- im looking for a restaurant in the center that serves [turkish](food) food
+- [any](this) kind of food
+- im looking for a restaurant in the [north](area) part of town serving [italian](food) food
+- im looking for [korean](food) food [any](this) price range
+- how bout asian
+- id like a restaurant in the [east](area) part of town that serves
+- noise [vietnamese](food)
+- restaurant in the [north](area) part of town serv
+- im looking for a [moderate](pricerange)ly priced restaurant and it should serve [polynesian](food) food
+- [moderate](pricerange)ly priced restaurant in the [west](area) part of town
+- [cheap](pricerange) restaurant serving [scandinavian](food) food
+- [cuban](food) food [cheap](pricerange) restaurant
+- restaurant [west](area) part of town
+- [expensive](pricerange) restaurant [east](area) part of town
+- im looking for a restaurant in [any](this) area that
+- [korean](food)
+- in the [east](area)
+- im looking for a restaurant serving [asian oriental](food) food
+- [cheap](pricerange) restaurant serves [spanish](food) food
+- its in the [south](area)
+- a restaurant in the [west](area) that serves [italian](food) food
+- i need a [moderate](pricerange)ly priced restaurant in the part of town
+- im looking for a [moderate](pricerange)ly priced restaurant that serves [canapes](food)
+- [gastropub](food)
+- im looking for an [moderate](pricerange)ly restaurant and it should be in the [south](area) part of town
+- find something in the [north](area) part
+- im looking for a [moderate](pricerange)ly priced restaurant that serves [turkish](food) food
+- restaurant in the [north](area)
+- im looking for a [moderate](pricerange)ly priced restaurant that serves
+- im looking for a [moderate](pricerange)ly priced restaurant
+- [english](food) food
+- in the [centre](area) of town
+- [expensive](pricerange) restaurant [scottish](food) food
+- im looking for an [expensive](pricerange) restaurant in the
+- [any](this) thing else
+- im looking for k[italian](food) food in an [expensive](pricerange) res
+- [indian](food) food
+- im looking for a restaurant in the [north](area) part
+- im looking for a restaurant in the [west](area) part of town serving [korean](food)
+- im looking for a restaurant in the [south](area) part of town
+- ah im looking for a [cheap](pricerange) restaurant
+- i want a [moderate](pricerange) priced restaurant that serves [indian](food) food
+- im looking for a restaurant in the [north](area) part of town serving [indian](food) food
+- i need a [cheap](pricerange) restaurant
+- im looking for a restaurant in the [south](area) part of town it should serve [kosher](food) food
+- [irish](food) food
+- im looking for a [moderate](pricerange) priced restaurant in the [south](area) part of town
+- i want to find a [cheap](pricerange) re
+- im looking for a restaurant in the center of town that serves [lebanese](food)
+- serve
+- [greek](food)
+- no price
+- breathing
+- [scandinavian](food)
+- barbecue
+- what food is available in the [south](area) part of town
+- im looking for a restaurant in [any](this) area that serves [tuscan](food) food
+- im looking for a restaurant that serves [mediterranean](food)
+- i would like [australian](food) foo
+- [tuscan](food)
+- place that serves [portuguese](food) food
+- im looking for a [moderate](pricerange)ly priced restaurant that serves austria asian food
+- cannabis
+- i want [malaysian](food) food in [any](this) area
+- what about a [moderate](pricerange)ly priced restaurant
+- [any](this) type of food is okay
+- barbecue food [west](area) part of town
+- tv_noise im looking for [tuscan](food) food
+- its a restaurant in the [south](area) of town that serves [italian](food) food
+- [cheap](pricerange) restaurant serving [asian oriental](food)
+- could i have a [moderate](pricerange)ly priced restaurant in the [south](area) part of town
+- where is it lcoated
+- [curry prince](name) address and phone number
+- [east](area) part
+- i need [thai](food) food
+- i need a [moderate](pricerange)ly priced restaurant in the [west](area) part of town
+- im looking for a restaurant serving [french](food) food
+- [any](this) food
+- may i have the [cheap](pricerange) restaurant in the [south](area) part of town
+- is there a restaurant in the [south](area) part of town that serves [indian](food) food
+- i want a [moderate](pricerange) priced restaurant in the [south](area) of town
+- serving [international](food) food
+- i want [chinese](food) food
+- [korean](food) food type
+- im looking for a restaurant in the center serving [russian](food) food
+- i [dont care](this) tv_noise
+- i am looking for [italian](food)
+- do you have [christmas](food) food
+- [chinese](food) food in the [east](area) part of town
+- what about [modern european](food)
+- a restaurant in the [south](area) part of town serving pan asian food
+- [corsica](food) food
+- no [thai](food) food
+- id like a [cheap](pricerange) restaurant in the [east](area) part of town
+- i need an [expensive](pricerange) [british](food) restaurant
+- tha [thai](food)
+- correct
+- [danish](food)
+- [chinese](food)
+- [moderate](pricerange)ly priced food in the [north](area) part of town
+- its [expensive](pricerange)
+- im looking for a restaurant in [any](this) area that serves [austrian](food) food
+- im looking for a restaurant serving [romanian](food) food
+- i want to find a [cheap](pricerange) restaurant
+- no im sorry it should be [expensive](pricerange)
+- i need a place that serves [spanish](food) food
+- [canapes](food)
+- it doesnt matter in the [south](area) part of town
+- im looking for a [moderate](pricerange)ly priced restaurant and it should be in the [north](area)
+- does do you know [any](this)one who serves um
+- what about [asian oriental](food)
+- [cheap](pricerange) resataurant serving unintelligible food
+- im looking for a [cheap](pricerange) [creative](food) food restaurant
+- [cheap](pricerange) restaurant [north](area) part of town
+- im looking for a [moderate](pricerange) priced restaurant in the [south](area) part of
+- im looking for an [expensive](pricerange) restaurant and it should be [east](area) part of town
+- i want to find a restaurant in the [west](area) part of
+- unintelligible
+- im looking for a restaurant serving [international](food) food
+- im looking for a [welsh](food) restaurant in the [west](area) part of town
+- [korean](food) food [moderate](pricerange) price
+- can i get [tuscan](food) foo
+- id like to find [japanese](food) food
+- i [dont care](this) about prices
+- serving [catalan](food) food
+- help me decide what [venue](name)s are available in the [west](area) part of town serving [any](this) ty
+- and what type of food do they serve at [pizza hut](name)t
+- id like to find a [cheap](pricerange) restaurant in the [west](area) part of town
+- [nandos](name) restaurant type of food
+- [modern european](food)
+- is there another restaurant in the [west](area) of town
+- restaurant in the [west](area) part of town serving barbecue
+- [chinese](food) restaurant please
+- you said [expensive](pricerange)
+- im looking for [mexican](food) food
+- im looking for a [moderate](pricerange) priced restaurant that serves [indian](food) food
+- um im looking for something in the [west](area) thats [moderate](pricerange)ly priced
+- that serves restaurant in [south](area) part of town
+- [expensive](pricerange) restaurant [tuscan](food) food
+- i want to find a restaurant in the [west](area) part of town and it should
+- im looking for a restaurant in the [north](area) part of town and it should serve cata
+- [any](this) thing
+- [moderate](pricerange)ly priced restaurant in the [north](area) part of town
+- [french](food) food [any](this) part of town
+- is there [any](this) restaurant serving [asian oriental](food) food
+- is there
+- no [north](area) part of town
+- restaurant in the [south](area) part of town that serves [indian](food) food
+- tv_noise no
+- okay change restaurant
+- im looking for a [cheap](pricerange) restaurant that serves [vietnamese](food) food
+- serving [austrian](food) food
+- i need a restaurant in the [east](area) part of town that serves [creative](food)
+- [austrian](food)
+- [expensive](pricerange) price range
+- [thai](food) food
+- i want [modern european](food)
+- i would like a [cheap](pricerange) restaurant in the [north](area) part of town
+- restaurant in the [north](area) part of town that serves [french](food)
+- is there an [indian](food) restaurant the [east](area) of town
+- a restaurant in the [east](area) part of town serving [indian](food) food
+- the [east](area) part
+- restaurant in the [west](area) part of town
+- restaurant [north](area)
+- i am looking for a [cheap](pricerange) restaurant and it should serve [seafood](food)
+- [moderate](pricerange)ly priced restaurant [south](area) part of town
+- [any](this) type of food
+- steak
+- is that [mexican](food) food
+- [moderate](pricerange) restaurant [north](area) part of town
+- i need a [cheap](pricerange) restaurant in the [east](area) part of town
+- [moderate](pricerange)ly priced
+- im looking for a restaurant serving [asian oriental](food)
+- is there a restaurant that has [british](food) food
+- sil
+- restauarant [south](area) part of town vanessa food
+- i need an [expensive](pricerange) restaurant in the [east](area) part of town
+- no [spanish](food)
+- food of the [venue](name)
+- [cheap](pricerange) restaurant in the [south](area) part of town
+- looking for a [cheap](pricerange) restaurant
+- the [west](area) part of town
+- im looking for a [moderate](pricerange)ly priced restaurant in the [north](area) part of town
+- im looking for a restaurant serving unintelligible
+- uh [vietnamese](food)
+- eirtrean
+- i need a [moderate](pricerange)ly priced restaurant in the [north](area) of town
+- im looking for a restaurant in the [south](area) part of town that serves
+- im looking for a restaurant in the [south](area) part of town that serves pan asian food
+- is that [persian](food) food
+- [asian oriental](food) food in the [centre](area)
+- [mexican](food) food
+- [mediterranean](food) restaurant
+- [moderate](pricerange) priced restaurant that serves [indian](food) food
+- [traditional](food) food
+- i would like to find an [expensive](pricerange) restaurant in the [south](area) part
+- i want a restaurant in the [west](area) part of town that serves [australian](food) food
+- oh boy
+- i am looking for [gastropub](food) food
+- part of town
+- [[nort](area)h american](food)
+- [cheap](pricerange) restaurant [gastropub](food)
+- im looking for an [expensive](pricerange) restaurant
+- [moderate](pricerange)ly priced [west](area) part of town
+- im looking for a [expensive](pricerange) restaurant in the [east](area) part of town
+- i want [french](food) food
+- im looking for a restaurant in the [west](area)
+- restaurant [north](area) part of town [seafood](food)
+- may i have a list of [venue](name)s in the [west](area) part of town
+- [polish](food) food
+- can i have the [corsica](food)
+- [british](food) type
+- im looking for a restaurant in the [west](area) part of town that serves [moroccan](food) food
+- i want to find a [moderate](pricerange)ly priced restaurant and it should serve
+- in the [south](area) part of town
+- more
+- no [any](this) area
+- how bout one that serves [portuguese](food) food and is [cheap](pricerange)
+- im looking for a restaurant in the [north](area) part of town
+- [chinese](food) food
+- ok i want [vietnamese](food)
+- i would like to find a restaurant in the [south](area) part of town that serves
+- the [west](area) part of town i want
+- what else do you have
+- [seafood](food)
+- [kosher](food)
+- noise how bout [thai](food)
+- whats a [cheap](pricerange) restaurant on the [east](area) part of town
+- in the [moderate](pricerange)ly price
+- im looking for a [cheap](pricerange) restaurant it should serve [japanese](food) food
+- yea im looking for a really [cheap](pricerange) restaurant in the [east](area) part of town
+- im looking for a [cheap](pricerange) restaurant in the [south](area) part of town
+- restaurant with scandin
+- what restaurants are in the [west](area) part of town
+- i want a restaurant in the [north](area) part of town
+- restaurant in [any](this) area [international](food) food
+- [cheap](pricerange) restaurant in he [north](area) part of town
+- the [west](area) part of town id like a [cheap](pricerange) restaurant
+- are there [any](this) other [cheap](pricerange) restaurants in the [west](area) part of town
+- hello
+- restaurant in the [south](area) part of town
+- [cheap](pricerange) restaurant [west](area) part of town
+- is there a [moderate](pricerange)ly priced restaurant that serves [british](food) food
+- in [cheap](pricerange) restaurant
+- im sorry
+- what part
+- im looking for [portuguese](food) food
+- the [south](area) part of
+- not [european](food) fusion
+- [south](area) [expensive](pricerange)
+- ye
+- [austrian](food) food
+- what type of food does [the missing sock](name) serve
+- no [indian](food) food
+- [caribbean](food)
+- im looking for a [cheap](pricerange) restaurant that serves [canapes](food) food
+- [cheap](pricerange) restaurant [gastropub](food) food
+- [moderate](pricerange) restaurant [south](area) part of town
+- im looking for an [expensive](pricerange) restaurant and it should be in the [south](area) part of town
+- [west](area) part of town [moderate](pricerange)ly priced
+- [asian oriental](food) type of food
+- just [chinese](food) food in the [north](area) part of town
+- are there [any](this) other [expensive](pricerange) restaurants in the [east](area) part of town
+- noise address and the post code of the [venue](name)
+- [modern european](food) foo
+- im looking for a [cheap](pricerange) restaurant in the [south](area)
+- im looking for a [cheap](pricerange) restaurant
+- a restaurant in the [south](area) part of town serving [italian](food) food
+- [south](area) part of town please
+- k[italian](food) food
+- find me a [moderate](pricerange)ly priced restaurant in the [west](area) part of town
+- find me an [expensive](pricerange) [portuguese](food) restaurant
+- wrong
+- id like to find a [moderate](pricerange)ly priced restaurant
+- restaurant in the [east](area) part of town serving [basque](food) food
+- [singaporean](food)
+- [moroccan](food)
+- [christmas](food) food
+- [moderate](pricerange) price range
+- um doesnt matter if its in the center of the town
+- um [[nort](area)h american](food) food
+- [mediterranean](food) food
+- [any](this) part
+- im looking for a restaurant in the [north](area) part of town and it should serve
+- [moderate](pricerange)ly priced restaurant [halal](food) food
+- i want [expensive](pricerange) food in the [east](area) part of town
+- a restaurant in
+- start over
+- [european](food) food
+- unintelligible [irish](food) food
+- i want to find a [cheap](pricerange) restaurant that serves
+- how bout [thai](food)
+- [thai](food)
+- im looking for a [moderate](pricerange)ly priced restaurant in the [south](area) part of town
+- i would like to find a [cheap](pricerange) restaurant in the [south](area) part of town
+- thare are different [expensive](pricerange) restaurants in the [east](area) part of town
+- doesnt matter
+- [indian](food) type of food
+- i need a restaurant in the center of town that includes [international](food) food
+- im looking for a restaurant in the [east](area) part of town serving [japanese](food) food
+- american
+- im looking for a [cheap](pricerange) restaurant and it should be in [north](area) part of town
+- im looking for a restaurant that serves [english](food) food
+- [expensive](pricerange) [french](food)
+- what about [european](food) food
+- [cheap](pricerange)
+- [korean](food) food price range
+- i need a [cheap](pricerange) restaurant in the [south](area) part of town
+- where is it
+- [east](area) part of town
+- do you have [cuban](food) food
+- im looking for a [cheap](pricerange) restaurant that serves [german](food) food
+- an [expensive](pricerange) restaurant
+- [world](food) food
+- im looking for an [expensive](pricerange) restaurant that serves [english](food) food
+- [steakhouse](food)
+- [tuscan](food) food
+- im looking for a [cheap](pricerange) restaurant and it should be in the [south](area) part of town
+- [moderate](pricerange) eur
+- [expensive](pricerange) [[nort](area)h american](food)
+- restaurant in the [north](area) part of town
+- im looking for [corsica](food) food
+- high priced
+- find me an [expensive](pricerange) restaurant
+- what about [international](food) food
+- im looking for an [expensive](pricerange) restaurant in the [east](area) part of t
+- i want [cuban](food) food
+- [south](area)
+- it should serve [belgian](food) food
+- [italian](food)
+- restaurant [north](area) part of town
+- i want a [cheap](pricerange) restaurant in the [east](area) part of town
+- im looking for a [cheap](pricerange) restaurant in the [east](area) part of town that serves [gastropub](food) food
+- is there is no such [venue](name) that have [asian oriental](food) type of food
+- [swiss](food) food
+- im looking for a [cheap](pricerange) restaurant serving [modern european](food) type of food
+- care
+- im looking for a [cheap](pricerange) restaurant in the [north](area) part of town
+- modern euorpean
+- [south](area) part of town
+- [any](this) price range
+- um doesnt matter
+- [cheap](pricerange) restaurant serving unintellgible food
+- [japanese](food) food
+- in the [east](area) part
+- priced
+- uh does it serve
+- id like an [expensive](pricerange) restaurant that serves mediteranean food
+- i want a [cheap](pricerange) restaurant that serves [european](food) food
+- blow
+- breath [curry prince](name) address
+- im looking for a restaurant in [any](this) area of town that serves belgium food
+- can you change [romanian](food) food to something else
+- im looking for a restaurant that serves [mediterranean](food) food
+- [christmas](food)
+- is there one that serves [indian](food) food
+- [expensive](pricerange) restaurant in the [south](area) part of town
+- im looking for a restaurant [cheap](pricerange) restaurant serving [romanian](food) food
+- no [danish](food)
+- [moderate](pricerange) restaurant [catalan](food) food
+- a [moderate](pricerange)ly place restaurant
+- [brazilian](food)
+- uh restaurant in the [west](area) part of town
+- no something else
+- i need an [expensive](pricerange) restaurant that serves [afghan](food) food
+- im looking for [moderate](pricerange)ly priced restaurant and it should serve [halal](food) food
+- need a restaurant serving [brazilian](food) food
+- [expensive](pricerange) restaurant that serves [afghan](food) food
+- [chinese](food) food please
+- restaurant in [south](area) part of town serves
+- looking for a [moderate](pricerange)ly priced restaurant in the [west](area) part of town
+- uh [indian](food)
+- [afghan](food) food
+- [lebanese](food)
+- i need a [moderate](pricerange)ly priced restaurant that serves [world](food) food
+- [expensive](pricerange) price restaurant
+- i am looking for an [expensive](pricerange) restaurant serving k[italian](food) food
+- a [cheap](pricerange) restaurant in the [west](area) part of town
+- im looking for a restaurant that serves [polynesian](food) food
+- that serves
+- i [dont care](this)
+- center
+- i want [vegetarian](food) food
+- [venue](name)
+- [vietnamese](food)
+- [cheap](pricerange) restaurant in the [west](area) part of town
+- i want to find a [moderate](pricerange)ly priced restaurant and it should be in the
+- [romanian](food)
+- [cheap](pricerange) [gastropub](food)
+- im looking for a [cheap](pricerange) restaurant in the
+- [spanish](food) food
+- im looking for a [moderate](pricerange)ly priced restaurant in the [south](area) of town
+- [polynesian](food)
+- [cantonese](food) food
+- can i find a [moderate](pricerange)ly priced
+- [chinese](food) restaurant in the [south](area) part of town
+- is that [asian oriental](food) type of food
+- i would like to find a restaurant in the [centre](area)
+- im looking for a [eritrean](food) restaurant
+- may i have a [moderate](pricerange)ly priced restaurant serving [english](food)
+- i got to find a [cheap](pricerange) restaurant that serves [mexican](food) food
+- i want a [cheap](pricerange) restaurant
+- i would like to find a [cheap](pricerange) restaurant in the [west](area) part of t
+- [west](area) part of town serving barbecue food
+- im looking for [greek](food) food
+- is it in the center
+- [afghan](food)
+- again please
+- [russian](food) food
+- i need a place in the [centre](area) of town that serves [mexican](food) food
+- town
+- [bistro](food) food
+- [greek](food) food
+- [any](this) part of town
+- im looking for an [expensive](pricerange) restaurant in the [south](area) part of town
+- [asian oriental](food) food
+- id like to find a restaurant in the [north](area) part of town and it should serve [greek](food) food
+- im looking for an [expensive](pricerange) restaurant and it should serve [international](food) food
+- [any](this) more
+- there is no such [venue](name) harbor [indian](food) type of food
+- [lebanese](food) food
+- im looking for [gastropub](food) food
+- im looking for [tuscan](food) food
+- does [any](this)one serve [eritrean](food) food
+- [moderate](pricerange) price [west](area) part of town
+- okay
+- no in [any](this) area
+- vegitarian
+- [any](this)
+- [korean](food) food
+- [irish](food) fdod
+- im looking for something serves [japanese](food) food
+- [any](this) address
+- [any](this) kind of food id like a [cheap](pricerange) restaurant
+- [portuguese](food) food
+- [any](this) area
+- i [dont care](this) [moderate](pricerange) price
+- pizza
+- i would like to find a restaurant in the [west](area) part of town
+- uh [spanish](food) food
+- [german](food) food
+- breath im looking for a restaurant in the [east](area) part of tow
+- what about [vietnamese](food) food
+- can i get an [expensive](pricerange)
+- [gastropub](food) food
+- [cheap](pricerange) restaurant
+- [cheap](pricerange) restaurant in the [north](area) part of town
+- laughing
+- im looking for an [expensive](pricerange) restaurant and it should be the [east](area) part of town
+- [fusion](food) food
+- inaudible
+- noise
+- im looking for a restaurant serving [venetian](food) food
+- [asian oriental](food)
+- free
+- tv_noise im looking for an [expensive](pricerange) restaurant and it should serve [tuscan](food) food
+- [catalan](food) food
+- [bistro](food)
+- [vietnamese](food) food in [any](this) area
+- opean
+- what about [korean](food) food
+- i would like
+- tv_noise [any](this)
+- im looking for a [moderate](pricerange)ly priced restaurant and it should be in the [west](area) part of town
+- [north](area) part of town serving [gastropub](food) food
+- restaurant
+- in the [east](area) part of town
+- [expensive](pricerange) food
+- [expensive](pricerange) restaurant
+- can i
+- im looking for a [moderate](pricerange)ly priced restaurant in the
+- do you have [any](this) [asian oriental](food) food
+- a [moderate](pricerange)ly priced restaurant
+- im looking for a [world](food) food restaurant in the [east](area) part of town
+- find me a [turkish](food) restaurant
+- is there a [cheap](pricerange) restaurant that serves [vietnamese](food) food
+- [scottish](food)
+- id like an [expensive](pricerange) restaurant in the [east](area) part of town
+- im looking for an [expensive](pricerange) restaurant in the [east](area) part of town
+- [european](food) restaurant
+- uh [expensive](pricerange) restaurant in the [south](area)
+- in the [west](area)
+- [moderate](pricerange)ly priced restaurant
+- serves
+- [east](area)
+- i would like to find a [moderate](pricerange)ly priced restaurant
+- i need a [moderate](pricerange)ly priced restaurant in the [south](area)
+- it doesnt matter to me
+- need one in the [west](area) part of town
+- a [cheap](pricerange)
+- um [expensive](pricerange) restaurant
+- where is one
+- i would like to find an [expensive](pricerange) restaurant serving
+- find me a [cheap](pricerange) [vietnamese](food) restaurant
+- restaurant in the [west](area) part of town that serves
+- i would like to find a [cheap](pricerange) restaurant
+- oh jesus christ start over
+- i would like a [cheap](pricerange) restaurant and it should
+- [caribbean](food) food
+- find me an [expensive](pricerange) [persian](food) restaurant
+- im looking for [asian oriental](food)
+- im looking for a [spanish](food) food restaurant
+- [cuban](food) food
+- korea
+- portugese
+- find me a [portuguese](food) restaurant
+- no
+- [vietnamese](food) food
+- can i get [tuscan](food)
+- [catalan](food)
+- i need
+- i need to find one in the [south](area) part of town
+- [moderate](pricerange) priced restaurant in the [north](area) part of town
+- repeat that
+- okay ital
+- is there [greek](food) food
+- is there [any](this)thing in the [cheap](pricerange) price range
+- i want a restaurant in the [north](area) part of town that serves [kosher](food)
+- [north](area) part of town
+- no [eritrean](food) food
+- what about [belgian](food) food
+- id like a [cheap](pricerange) restaurant in the [north](area) part of town
+- ah what have you got for [thai](food) food
+- [moderate](pricerange) price restaurant
+- i am looking for k[italian](food) food
+- i need a [moderate](pricerange)ly priced restaurant that serves [caribbean](food) food
+- im looking for a restaurant in [any](this) area and it should serve [turkish](food)
+- im looking for a [cheap](pricerange) restaurant in the [east](area) part of town
+- [indian](food)
+- [moderate](pricerange)ly priced restaurant in [east](area) part of town
+- i would like to find a [moderate](pricerange)ly priced restaurant and it should
+- im looking for a restaurant that serves [mexican](food) food
+- it has to serve [unusual](food)
+- tv_noise
+- [british](food)
+- [international](food)
+- im looking for am [expensive](pricerange) restaurant in the [south](area) part
+- [south](area) part of town south
+- [british](food) food [north](area) part of town
+- [canapes](food) food
+- what about [bistro](food) food
+- im looking for a restaurant that serves [chinese](food) food
+- [european](food) food [any](this) price
+- [east](area) part of town serving [swedish](food) food
+- [any](this) kind
+- [cheap](pricerange) unintelligible food
+- well i [dont care](this) about the price range
+# intent:thankyou
+- thank you
+- *DOUBLE CHECK, TWO INTENTS* thank you what is the [phone number](slot)
+- that is all
+- unintelligible
+- *DOUBLE CHECK, TWO INTENTS* thank you what is the [address](slot) and phone number
+- thank you goodb
+- thank you good
+- thank you and price range
+- no thank you
+- no unintelligible
+# intent:reqalts
+- how about the west area
+- portugeuse
+- how about british food
+- how about a place that serves portuguese food
+- is there anything else
+- how about indian
+- give me another one
+- how about asian oriental food
+- how about french
+- is it in the center of town
+- how about the phone number
+- how about a portuguese restaurant
+- how about indian type food
+- laugh
+- and where is that located
+- how about modern european food
+- what is there anything else
+- no there is no such venue how about portuguese type of food
+- ok how about chinese food
+- how about gastropub food
+- okay how about
+- how about moderate
+- cross talk how about gastro pub
+- how about mediterranean food
+- how about portugeuse
+- noise
+- how about indian food
+- how about unintelligible
+- im looking for a restaurant
+- no there is no such venue how about portuguese food
+- okay
+- how about a restaurant in the north part of town that sells french food
+- how about the address
+- ok if there is no restaurant serving indonesian food how about a restaurant serving chinese food
+- if there is no such venue how about italian type of food
+- what
+- how about
+- is the anything else
+- how about turkish
+- how about european food
+- how about italian
+- how about british type food
+- how about korean food
+- how about indian type of food
+- how about north american food
+- how about french food
+- how about the north part
+- how about romanian food
+- how about asian oriental type of food
+- how about asian oriental type of foo
+- how about spanish food
+- how about modern europone
+- no
+- how about vietnamese
+- how about the center area
+- how about a moderately priced
+- how about chinese food
+- how about turkish food
+- how about an indian restaurant in the north part of town
+- how about asian food
+- okay how about french
+- how about a chinese restaurant
+- how about moroccan food
+- anything else
+- how about a turkish restaurant
+- um how about spanish food
+- how about persian food
+- is there a restaurant
+- phone
+- how about spanish
+- how about gastropub type of food
+- noice how about european
+- theres no such venue how about gastropub type of food
+- how about north american
+- sil
+- what part of town
+- no well how about thai
+- how about chinese
+- unintelligible
+- is there anything else in the medium price range
+- nosie
+- how about italian food
+- how about gastro pub
+- steak house
+- thats great what else is there
+- doesnt matter
+- how about one that serves korean food
+- how about thai food
+- how about british
+- how about portuguese
+- how about italian type of food
+- what part of town is it in
+- how about a different restaurant
+- how about north american type of food
+- how about korean
+- how about thai
+- how about vietnamese food
+- how about portuguese food
+- how about gastro pub type of food
+# intent:bye
+- *DOUBLE CHECK, TWO INTENTS* thank you and good bye
+- center of town
+- *DOUBLE CHECK, TWO INTENTS* kay thank you good bye
+- *DOUBLE CHECK, TWO INTENTS* alright thank you goodbye
+- cough
+- *DOUBLE CHECK, TWO INTENTS* unintelligible thank you goodbye
+- *DOUBLE CHECK, TWO INTENTS* alright thank you good bye
+- system
+- i would like
+- not
+- nor
+- im looking for a restaurant
+- im looking for a restaurant in the center serving
+- *DOUBLE CHECK, TWO INTENTS* tv_noise thank you goodbye
+- air tran
+- bye
+- hello
+- the center of town
+- im looking
+- uh huh
+- can i get a restaurant
+- *DOUBLE CHECK, TWO INTENTS* water cherries thank you good bye
+- i am looking fora restaurant that should serve
+- for a restaurant
+- the restaurant
+- *DOUBLE CHECK, TWO INTENTS* thank you goodbye
+- im looking for
+- im looking for um
+- okay good bye
+- i need a restaurant that serves
+- *DOUBLE CHECK, TWO INTENTS* noise thank you good bye
+- what
+- see you goodbye
+- i want a restaurant in the center of town
+- right on good bye peace
+- restaurant
+- you good bye
+- *DOUBLE CHECK, TWO INTENTS* thank you goodbye noise thank you goodbye
+- im looking for a restaurant in the center of town
+- find me a restaurant in the center of town
+- doesnt matter
+- steak house
+- k you goodbye
+- restaurants
+- *DOUBLE CHECK, TWO INTENTS* okay thank you good bye
+- im looking for a restaurant that serves
+- part of town
+- it doesnt matter
+- whats the
+- sil
+- good bye
+- *DOUBLE CHECK, TWO INTENTS* could i or um thank you goodbye
+- laughing
+- looking for a place that serves whole worl
+- *DOUBLE CHECK, TWO INTENTS* oh thank you good bye
+- for restaurant
+- goodbye
+- unintelligible
+- *DOUBLE CHECK, TWO INTENTS* noise thank you goodbye
+- unintelligible bye
+- im
+- *DOUBLE CHECK, TWO INTENTS* no thank you good bye
+- *DOUBLE CHECK, TWO INTENTS* thank you good bye
+- *DOUBLE CHECK, TWO INTENTS* cut it thank you good bye
+- music hello
+- no
+- noise
+- im looking for a restaurant in the center
+- hm
+- okay let me try this again
+# intent:hello
+- unintelligible restaurant
+- *DOUBLE CHECK, TWO INTENTS* hi im looking for a place that serves [scandinavian](food) food
+- *DOUBLE CHECK, TWO INTENTS* hello im looking for a [cheap](pricerange) restaurant in the [west](area) part of town
+- *DOUBLE CHECK, TWO INTENTS* hi im looking for a [moderate](pricerange)ly priced restaurant in the [south](area) part of town
+- *DOUBLE CHECK, TWO INTENTS* yes hi im looking for a restaurant in the [north](area)
+- *DOUBLE CHECK, TWO INTENTS* hi im looking for a [moderate](pricerange)ly priced restaurant
+- a chi ok lets look for chinese restaurant
+- hi looking for a moderately priced restaurant
+- *DOUBLE CHECK, TWO INTENTS* hi im looking for a [cheap](pricerange) restaurant in the [south](area) part of town
+- *DOUBLE CHECK, TWO INTENTS* hello im looking for a [cheap](pricerange)
+- hi im looking for a restaurant in the
+- cough
+- hi looking for a restaurant in the west part of town
