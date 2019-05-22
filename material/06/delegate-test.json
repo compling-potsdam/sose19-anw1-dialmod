@@ -1,0 +1,152 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "adressenspeicher",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetLocationIntent",
+                    "slots": [
+                        {
+                            "name": "plz",
+                            "type": "AMAZON.NUMBER",
+                            "samples": [
+                                "{plz}",
+                                "Das ist {plz}",
+                                "Meine Postleitzahl ist {plz}"
+                            ]
+                        },
+                        {
+                            "name": "city",
+                            "type": "AMAZON.DE_CITY",
+                            "samples": [
+                                "{city}",
+                                "Meine Stadt ist {city}",
+                                "Ich wohne in {city}"
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "Speichere meine Adresse",
+                        "Ich wohne in {city}",
+                        "Ich wohne in {plz} {city}"
+                    ]
+                }
+            ],
+            "types": []
+        },
+        "dialog": {
+            "intents": [
+                {
+                    "name": "GetLocationIntent",
+                    "delegationStrategy": "ALWAYS",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.112879882611"
+                    },
+                    "slots": [
+                        {
+                            "name": "plz",
+                            "type": "AMAZON.NUMBER",
+                            "confirmationRequired": true,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "confirmation": "Confirm.Slot.112879882611.932420649406",
+                                "elicitation": "Elicit.Slot.112879882611.932420649406"
+                            }
+                        },
+                        {
+                            "name": "city",
+                            "type": "AMAZON.DE_CITY",
+                            "confirmationRequired": true,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "confirmation": "Confirm.Slot.112879882611.584010023290",
+                                "elicitation": "Elicit.Slot.112879882611.584010023290"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "delegationStrategy": "ALWAYS"
+        },
+        "prompts": [
+            {
+                "id": "Elicit.Slot.112879882611.932420649406",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Nenne mir bitte Deine Postleitzahl"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "Was ist Deine Postleitzahl?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Slot.112879882611.932420649406",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Du sagtest {plz} , stimmt das?"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "Deine PLZ ist also {plz} , richtig?"
+                    }
+                ]
+            },
+            {
+                "id": "Elicit.Slot.112879882611.584010023290",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Bitte nenne die Stadt"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "In welcher Stadt wohnst Du"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Slot.112879882611.584010023290",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Du wohnst in {city} .  "
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.112879882611",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Du wohnst in {plz} {city}"
+                    }
+                ]
+            }
+        ]
+    }
+}
