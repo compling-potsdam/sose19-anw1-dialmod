@@ -9,7 +9,7 @@ Während der Entwicklung kann es einfacher sein, das Backend für den Skill auf 
 
 Es muss `flask-ask` installiert werden, über: `pip install flask-ask-sdk`
 
-Der Code muß dann angepasst werden, siehe `flaskask.py`.
+Der Code muß dann angepasst werden, siehe `flaskask.py`. (Das ist meine angepasste Version des [python-helloworld-classes-Skills](https://github.com/alexa/skill-sample-python-helloworld-classes), entsprechend findet sich dort auch das Interaktionsmodell.)
 
 Bei Ausführung wird dann auf dem eigenen Rechner (`localhost`) auf Port 5000 der Webservice ausgeführt.
 
