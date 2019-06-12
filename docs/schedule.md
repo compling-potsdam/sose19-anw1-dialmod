@@ -19,7 +19,7 @@ nav_order: 2
 07 | 2019-05-22 | [Alexa Dialogue Interface](https://developer.amazon.com/de/docs/custom-skills/dialog-interface-reference.html),  [Material](https://github.com/compling-potsdam/sose19-anw1-dialmod/blob/master/material/06) |
 08 | 2019-05-29 | *vorgezogen auf 8.5., 16-18h; keine Sitzung* |
 09 | 2019-06-05 | Flask Ask, ngrok, Dialogdesign, [Material](https://github.com/compling-potsdam/sose19-anw1-dialmod/blob/master/material/07) |
-10 | 2019-06-12 | (praktisches Arbeiten) |
+10 | 2019-06-12 | Gastvortrag Staffan Larsson (Göteborg), "Issue-Based Dialogue Management". [Material](https://github.com/compling-potsdam/sose19-anw1-dialmod/blob/master/material/08) |
 11 | 2019-06-19 | (praktisches Arbeiten) |
 12 | 2019-06-26 | Gastrednerin [Milica Gasic](http://mi.eng.cam.ac.uk/~mg436/) (Düsseldorf) gemeinsam mit CL-Kolloquium, Thema "statistical dialogue management" (Achtung: Doch in der normalen Zeit, 10-12.)|
 13 | 2019-07-03 | (praktisches Arbeiten) |
