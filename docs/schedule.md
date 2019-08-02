@@ -24,4 +24,4 @@ nav_order: 2
 12 | 2019-06-26 | Gastrednerin [Milica Gasic](http://mi.eng.cam.ac.uk/~mg436/) (Düsseldorf) gemeinsam mit CL-Kolloquium, Thema "statistical dialogue management" (Achtung: Doch in der normalen Zeit, 10-12.)|
 13 | 2019-07-03 | (praktisches Arbeiten) |
 14 | 2019-07-10 | (praktisches Arbeiten) |
-15 | 2019-07-17 | Vorstellung der Projekte, Abschluss |
+15 | 2019-07-17 | Vorstellung der Projekte, Abschluss [Material](https://github.com/compling-potsdam/sose19-anw1-dialmod/blob/master/material/15) |
