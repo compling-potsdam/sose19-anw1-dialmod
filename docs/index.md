@@ -64,7 +64,7 @@ Zur Erlangung der unbenoteten Prüfungsnebenleistung, die eine Voraussetzung zum
 
 Sie können aus dieser Veranstaltung heraus auch die Modulleistung entwickeln. Dazu können Sie den praktischen Teil weitertreiben und mit einer ca. 10 Seiten umfassenden Dokumentation einreichen. (Einige Hinweise zu deren Gestaltung finden Sie [hier](https://github.com/compling-potsdam/sose19-anw1-dialmod/blob/master/material/15).) Sie können aber auch eine eher Literatur-orientierte Hausarbeit (ebenfalls ca. 10 Seiten) erstellen, in der Sie (nach Absprache) einer Frage aus der behandelten Literatur umfangreich nachgehen.
 
-Einreichungsfrist ist der 31.9.2019.
+Einreichungsfrist ist der 30.9.2019.
 
 
 ### Anwesenheit
